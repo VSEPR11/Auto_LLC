@@ -14,10 +14,12 @@
 4. 启动脚本，如果你有编辑器或者IDE，可以直接使用。如果没有，可以使用Windows的CMD或者PowerShell打开所在目录，
 <img src="doc/terminal.png"></img>
 注意在启动脚本之前，需要安装依赖，请运行下面命令：
-> pip install requests py7zr tqdm
-
+```
+pip install requests py7zr tqdm
+```
 <img src="doc/command.png"></img>
 启动脚本，等待安装完成:
-> python auto_llc.py
-
+```
+python auto_llc.py
+```
 <img src="doc/run.png"></img>
